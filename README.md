@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SunnyTamang
+- 👋 Hi, I’m SunnyTamang
 - 👀 I’m interested in AI, DataScience and new technologies
 - 🌱 Completed Full Stack Data Science from INeuron
 - Currently studing DSML @Scaler
